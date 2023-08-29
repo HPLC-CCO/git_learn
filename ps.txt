@@ -1,0 +1,7 @@
+this is a password file
+username:li
+password:123
+
+email:limuxiao1314@163.com
+http://192.168.10.5
+
