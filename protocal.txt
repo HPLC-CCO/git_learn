@@ -1,2 +1,3 @@
 protocal 698
-
+645 27930 tcp
+udp gprs
