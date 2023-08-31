@@ -1,4 +1,4 @@
 protocal 698
 645 27930 tcp
 udp gprs
-x google
+x baidu
